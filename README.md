@@ -1,4 +1,4 @@
-# Numerical Seakeeping Analysis of a Ship (Flokstra Method)
+# Numerical Seakeeping Analysis of a Ship 
 
 This repository contains a comprehensive seakeeping analysis developed at **Instituto Superior Técnico (IST)**. The project focuses on predicting the dynamic response of a vessel (specifically the **Flokstra** tanker hull) subjected to regular and irregular seas.
 
